@@ -1,1 +1,1 @@
-# try-spring5
+Some simple codes to demonstrate the WebFlux features of Spring 5.
